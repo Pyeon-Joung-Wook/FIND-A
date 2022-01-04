@@ -11,6 +11,7 @@
 |[이재성](https://github.com/minsuk-sung/)|rlfehdghd11@cau.ac.kr|
 |[강상훈](https://github.com/minsuk-sung/)|sanghunkang.dev@gmail.com|
 |[홍지환](https://github.com/minsuk-sung/)|csjihwanh@korea.ac.kr|
+|[편정욱](https://github.com/Pyeon-Joung-Wook/)|rimanere2047@gmail.com|
 
 ## Curriculum
 스터디 들어가기 앞서 Python의 기초지식이 부족하신 분은 기초 공부를 반드시 하고 오시길 바랍니다. System trading에 대한 전체적인 계획표는 아래와 같으며 2020-2학기 기말고사를 고려하여 대략 2월 중순까지 진행될 예정입니다.
